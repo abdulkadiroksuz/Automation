@@ -1,0 +1,14 @@
+# Geçici dosyalar ve derleme çıktıları
+*.log
+*.pyc
+__pycache__/
+
+# Bağımlılıkların depolandığı dizin
+node_modules/
+
+# Ortam değişkenleri
+.env
+
+# Sistem dosyaları
+.DS_Store
+Thumbs.db
