@@ -1,2 +1,2 @@
 # PID control system
-Prepared by @abdulkadiroksuz and @grknbyk
+Prepared by [Abdulkadir Öksüz](https://github.com/abdulkadiroksuz) and [Gürkan Bıyık](https://github.com/grknbyk)
