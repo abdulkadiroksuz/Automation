@@ -1,2 +1,1 @@
-# DeuRov
- Personal Studies
+# Personal Studies
